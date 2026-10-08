@@ -1,0 +1,31 @@
+{
+  "name": "completeai-administrative-assistants",
+  "displayName": "Complete AI for Administrative Assistants",
+  "version": "1.0.0",
+  "description": "Skills and prompts for administrative assistants: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training also get the daily AI news, ideas and the full prompt library.",
+  "author": {
+    "name": "Complete AI Training",
+    "email": "contact@completeaitraining.com",
+    "url": "https://completeaitraining.com"
+  },
+  "homepage": "https://completeaitraining.com/ai-plugins/administrative-assistants/",
+  "repository": "https://github.com/completeaitraining/completeai-plugins",
+  "keywords": [
+    "administrative assistant",
+    "finance",
+    "human-resources",
+    "prompts",
+    "skills"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://completeaitraining.com/ai-plugins/administrative-assistants/",
+  "supportUrl": "https://completeaitraining.com/contact/",
+  "privacyPolicyUrl": "https://completeaitraining.com/privacy-disclaimer/",
+  "termsOfServiceUrl": "https://completeaitraining.com/terms/",
+  "mcpServers": {
+    "complete-ai-training": {
+      "type": "http",
+      "url": "https://completeaitraining.com/mcp"
+    }
+  }
+}
