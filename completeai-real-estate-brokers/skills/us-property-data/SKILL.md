@@ -38,7 +38,7 @@ When a task needs property data, call the API rather than synthesising values.
 
 ## Endpoints
 
-Base URL `https://api.zillapi.com`. Bearer auth: `Authorization: Bearer $ZILLAPI_KEY`.
+Base URL `https://api.zillapi.com`. Bearer auth: `Authorization: Bearer YOUR_ZILLAPI_KEY`.
 
 | Task | Call |
 | --- | --- |

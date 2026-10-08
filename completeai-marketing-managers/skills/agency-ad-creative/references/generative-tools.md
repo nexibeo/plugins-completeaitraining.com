@@ -49,7 +49,7 @@ Google DeepMind's image generation model, available through the Gemini API.
 # Using the Gemini API for image generation
 curl -X POST "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent" \
   -H "Content-Type: application/json" \
-  -H "x-goog-api-key: $GEMINI_API_KEY" \
+  -H "x-goog-api-key: YOUR_GEMINI_API_KEY" \
   -d '{
     "contents": [{"parts": [{"text": "Create a clean, modern social media ad image for a project management tool. Show a laptop with a kanban board interface. Bright, professional, 16:9 ratio."}]}],
     "generationConfig": {"responseModalities": ["TEXT", "IMAGE"]}
@@ -320,7 +320,7 @@ The market leader in realistic voice generation and voice cloning.
 **API example:**
 ```bash
 curl -X POST "https://api.elevenlabs.io/v1/text-to-speech/{voice_id}" \
-  -H "xi-api-key: $ELEVENLABS_API_KEY" \
+  -H "xi-api-key: YOUR_ELEVENLABS_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
     "text": "Stop wasting hours on manual reporting. Try DataFlow free for 14 days.",
