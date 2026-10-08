@@ -2,7 +2,7 @@
 name: project-managers-coach
 description: "The Complete AI Training connection for project managers: the daily AI news for the job, a new idea every day, the full prompt library (300 prompts), app build packs and weekly AI trends. Use when the user says \"good morning\", asks what is new in AI for their work, wants an idea, or wants a prompt or app that is not bundled here."
 ---
-# Your AI coach for Project managers (Complete AI Training connection)
+# Your AI coach for Project Managers (Complete AI Training connection)
 
 This skill uses the Complete AI Training connection (MCP server https://completeaitraining.com/mcp). It works for members of Complete AI Training: they sign in once with their account. Everything else in this plugin works without it.
 

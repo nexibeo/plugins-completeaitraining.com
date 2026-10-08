@@ -2,7 +2,7 @@
 name: marketing-managers-prompts
 description: "Ready-made prompts for marketing managers from Complete AI Training: Market Research, Content Creation Ideas, Ad Copy Suggestions, Brand Positioning, Competitive Analysis, Social Media Strategy, SEO Recommendations, Email Campaign Suggestions, Customer Persona Creation, Visual Content Ideas, Marketing Metrics Analysis, Product Launch Plans, Influencer Collaboration, Feedback Analysis, Event Promotion Strategies. Use when a marketing manager wants a proven prompt for a task, or asks what AI can do for them."
 ---
-# Prompts for Marketing managers
+# Prompts for Marketing Managers
 
 15 prompts written for marketing managers and tested in Complete AI Training's courses.
 

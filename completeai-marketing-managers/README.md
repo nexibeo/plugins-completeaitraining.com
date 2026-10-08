@@ -1,4 +1,4 @@
-# Complete AI for Marketing managers
+# Complete AI for Marketing Managers
 
 A free plugin by Complete AI Training (https://completeaitraining.com) that turns Claude into a work assistant for marketing managers. Ask for the work in your own words and it picks the right skill, asks for the details it needs, and gives you the finished result.
 
@@ -35,7 +35,7 @@ Without an account, everything else in the plugin works as normal. About Complet
 - Version 1.0.0. Licence: see LICENSE and NOTICE.md.
 
 ## Install
-- **claude.ai, the desktop app and Cowork:** find "Complete AI for Marketing managers" in the plugin directory and click Install. Then start a chat and type **/start**.
+- **claude.ai, the desktop app and Cowork:** find "Complete AI for Marketing Managers" in the plugin directory and click Install. Then start a chat and type **/start**.
 - **Claude Code:** `/plugin marketplace add nexibeo/plugins-completeaitraining.com`, then `/plugin install completeai-marketing-managers@completeai-plugins`.
 
 ## Commands

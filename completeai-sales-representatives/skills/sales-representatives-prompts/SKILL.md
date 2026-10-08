@@ -2,7 +2,7 @@
 name: sales-representatives-prompts
 description: "Ready-made prompts for sales representatives from Complete AI Training: Lead Generation, Product Information Synthesis, Sales Script Development, Competitive Analysis, Email Campaign Optimization, Customer Relationship Management, Sales Forecasting, Pricing Strategy Analysis, Social Media Analysis, Customer Feedback Analysis, Sales Training Material Creation, Market Trend Identification, Proposal Customization, Sales Process Automation, CRM Data Analysis. Use when a sales representative wants a proven prompt for a task, or asks what AI can do for them."
 ---
-# Prompts for Sales representatives
+# Prompts for Sales Representatives
 
 15 prompts written for sales representatives and tested in Complete AI Training's courses.
 

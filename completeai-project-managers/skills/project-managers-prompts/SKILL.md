@@ -2,7 +2,7 @@
 name: project-managers-prompts
 description: "Ready-made prompts for project managers from Complete AI Training: Change Management Support, Project Planning Support, Risk Assessment Guidance, Resource Allocation Strategies, Budget Management Advice, Team Collaboration Enhancement, Progress Tracking Assistance, Agile Methodology Insights, Stakeholder Communication, Conflict Resolution Strategies, Task Automation Opportunities, Data Analysis for Decision Making, Time Management Techniques, Post-Project Analysis, Crisis Management Assistance. Use when a project manager wants a proven prompt for a task, or asks what AI can do for them."
 ---
-# Prompts for Project managers
+# Prompts for Project Managers
 
 15 prompts written for project managers and tested in Complete AI Training's courses.
 
