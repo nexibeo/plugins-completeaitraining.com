@@ -5,7 +5,7 @@ Free plugins by Complete AI Training (https://completeaitraining.com) that turn 
 ## Install in Claude Code
 
 ```
-/plugin marketplace add completeaitraining/completeai-plugins
+/plugin marketplace add nexibeo/plugins-completeaitraining.com
 ```
 
 In claude.ai and the desktop app, find them in the plugin directory: search for "Complete AI".

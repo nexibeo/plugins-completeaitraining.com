@@ -36,7 +36,7 @@ Without an account, everything else in the plugin works as normal. About Complet
 
 ## Install
 - **claude.ai, the desktop app and Cowork:** find "Complete AI for Administrative Assistants" in the plugin directory and click Install. Then start a chat and type **/start**.
-- **Claude Code:** `/plugin marketplace add completeaitraining/completeai-plugins`, then `/plugin install completeai-administrative-assistants@completeai-plugins`.
+- **Claude Code:** `/plugin marketplace add nexibeo/plugins-completeaitraining.com`, then `/plugin install completeai-administrative-assistants@completeai-plugins`.
 
 ## Commands
 - /start: what the plugin can do for you
