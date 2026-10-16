@@ -23,4 +23,4 @@ How to use them:
 - [Classroom Management Strategies](references/09-classroom-management-strategies.md): 1 prompts
 - [Professional Development Ideas](references/10-professional-development-ideas.md): 1 prompts
 
-The full library has 195 prompts for teachers. Members of Complete AI Training reach all of them through the teachers-coach skill.
+The full library has 195 prompts for teachers, for members on https://completeaitraining.com.

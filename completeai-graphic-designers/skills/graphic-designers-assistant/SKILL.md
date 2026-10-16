@@ -35,12 +35,12 @@ Do not make legal, medical, or financial decisions for the client. Send licensin
 - **agency-marketing-ad-creative**: When the user needs to generate, iterate, or scale ad creative for paid advertising. Use when they say 'write ad copy,' 'generate headlines,' 'create ad variations,' 'bulk creative,' 'iterate on ads,'
 - **graphic-designers-prompts**: 15 ready-made prompts for graphic designers, by topic.
 - **graphic-designers-app-builder**: build a Managed AI visual production and review platform for your own work with AI, starting in the chat.
-- **graphic-designers-connections**: the 12 apps you can connect to (MCP servers) and how to add one, step by step.
-- **graphic-designers-coach**: the Complete AI Training connection for members (daily AI news for graphic designers, ideas and the full prompt library).
+- **graphic-designers-connections**: the 12 apps you can connect to (MCP servers), each with the page that explains it.
+- **graphic-designers-coach**: the Complete AI Training connection for members (AI news for graphic designers, weekly trends, ideas, learning progress).
 
 ## How to pick
 1. Match the request to the skill whose description fits best and follow that skill's steps.
 2. No skill fits? Look in graphic-designers-prompts for a prompt on the topic and run it with the user's details.
 3. The user wants a tool of their own? Use the app builder.
-4. The user wants you to work in another app (email, files, CRM)? Use the connections skill.
+4. The user wants you to work in another app (email, files, CRM)? Use the connections skill: it lists the apps and links their pages.
 5. Ask for the details you need first (one short list of questions), then deliver the finished work.

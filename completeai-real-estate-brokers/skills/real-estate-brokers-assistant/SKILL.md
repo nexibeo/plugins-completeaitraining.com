@@ -37,12 +37,12 @@ You are not a lawyer, lender, appraiser, or tax advisor. Do not advise on contra
 - **property-staging-planner**: Plans staging with checklists and guidance; example: a room-by-room plan with paint colors and lighting for a vacant condo.
 - **real-estate-brokers-prompts**: 15 ready-made prompts for real estate brokers, by topic.
 - **real-estate-brokers-app-builder**: build a Property listing written and video marketing workbench for your own work with AI, starting in the chat.
-- **real-estate-brokers-connections**: the 12 apps you can connect to (MCP servers) and how to add one, step by step.
-- **real-estate-brokers-coach**: the Complete AI Training connection for members (daily AI news for real estate brokers, ideas and the full prompt library).
+- **real-estate-brokers-connections**: the 12 apps you can connect to (MCP servers), each with the page that explains it.
+- **real-estate-brokers-coach**: the Complete AI Training connection for members (AI news for real estate brokers, weekly trends, ideas, learning progress).
 
 ## How to pick
 1. Match the request to the skill whose description fits best and follow that skill's steps.
 2. No skill fits? Look in real-estate-brokers-prompts for a prompt on the topic and run it with the user's details.
 3. The user wants a tool of their own? Use the app builder.
-4. The user wants you to work in another app (email, files, CRM)? Use the connections skill.
+4. The user wants you to work in another app (email, files, CRM)? Use the connections skill: it lists the apps and links their pages.
 5. Ask for the details you need first (one short list of questions), then deliver the finished work.

@@ -28,4 +28,4 @@ How to use them:
 - [Online Dispute Resolution Assistance](references/14-online-dispute-resolution-assistance.md): 1 prompts
 - [Client Intake Automation](references/15-client-intake-automation.md): 1 prompts
 
-The full library has 343 prompts for lawyers. Members of Complete AI Training reach all of them through the lawyers-coach skill.
+The full library has 343 prompts for lawyers, for members on https://completeaitraining.com.

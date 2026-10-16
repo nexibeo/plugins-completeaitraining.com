@@ -37,12 +37,12 @@ Keep student information minimal. Use initials or student numbers when a name is
 - **teacher-professional-development-assistant**: Recommends PD and classroom strategies, like a course on differentiation and three books on questioning techniques.
 - **teachers-prompts**: 15 ready-made prompts for teachers, by topic.
 - **teachers-app-builder**: build an Assessment feedback assistant for your own work with AI, starting in the chat.
-- **teachers-connections**: the 12 apps you can connect to (MCP servers) and how to add one, step by step.
-- **teachers-coach**: the Complete AI Training connection for members (daily AI news for teachers, ideas and the full prompt library).
+- **teachers-connections**: the 12 apps you can connect to (MCP servers), each with the page that explains it.
+- **teachers-coach**: the Complete AI Training connection for members (AI news for teachers, weekly trends, ideas, learning progress).
 
 ## How to pick
 1. Match the request to the skill whose description fits best and follow that skill's steps.
 2. No skill fits? Look in teachers-prompts for a prompt on the topic and run it with the user's details.
 3. The user wants a tool of their own? Use the app builder.
-4. The user wants you to work in another app (email, files, CRM)? Use the connections skill.
+4. The user wants you to work in another app (email, files, CRM)? Use the connections skill: it lists the apps and links their pages.
 5. Ask for the details you need first (one short list of questions), then deliver the finished work.

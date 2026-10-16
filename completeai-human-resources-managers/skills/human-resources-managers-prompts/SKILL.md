@@ -26,4 +26,4 @@ How to use them:
 - [Talent Retention](references/12-talent-retention.md): 1 prompts
 - [Exit Interviews](references/13-exit-interviews.md): 1 prompts
 
-The full library has 216 prompts for human resources managers. Members of Complete AI Training reach all of them through the human-resources-managers-coach skill.
+The full library has 216 prompts for human resources managers, for members on https://completeaitraining.com.

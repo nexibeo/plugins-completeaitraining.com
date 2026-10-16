@@ -28,4 +28,4 @@ How to use them:
 - [Feedback Analysis](references/14-feedback-analysis.md): 1 prompts
 - [Event Promotion Strategies](references/15-event-promotion-strategies.md): 1 prompts
 
-The full library has 284 prompts for marketing managers. Members of Complete AI Training reach all of them through the marketing-managers-coach skill.
+The full library has 284 prompts for marketing managers, for members on https://completeaitraining.com.

@@ -27,4 +27,4 @@ How to use them:
 - [Client Communication and Negotiation](references/13-client-communication-and-negotiation.md): 1 prompts
 - [Ethical Design and Accessibility](references/14-ethical-design-and-accessibility.md): 1 prompts
 
-The full library has 207 prompts for graphic designers. Members of Complete AI Training reach all of them through the graphic-designers-coach skill.
+The full library has 207 prompts for graphic designers, for members on https://completeaitraining.com.

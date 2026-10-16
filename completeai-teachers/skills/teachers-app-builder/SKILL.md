@@ -13,8 +13,8 @@ Build feedback from your own rubric so students get clear next steps and you kee
 - See it working (online demo): https://completeaitraining.com/build-ai-apps/education/assessment-feedback-assistant/
 
 How to help:
-1. Start with the two-minute version: run its prompt and build the clickable first version here.
-2. Want the real app? Follow "Build the real app" below, phase by phase.
+1. Run the two-minute version below: it builds a clickable first version right here in the chat.
+2. Improve it with the user, one change at a time.
 
 ## The two-minute version
 
@@ -43,14 +43,3 @@ Please:
 - When it's ready, suggest three improvements I could ask you for next.
 ```
 
-## Build the real app
-
-```
-Please build the app in this folder for me: Assessment feedback assistant. I'm not a developer, so do the technical work yourself and explain every step in plain language.
-
-1. Read START-HERE.md and the other files in this folder.
-2. Ask me the questions from questions.md, a few at a time and in simple words.
-3. Use demo/index.html as the example of how it should look and work.
-4. Follow prompt-cloudflare.md (unless I tell you I have my own server). Build the first small version, show me how to open and try it, and wait for my OK before you continue.
-5. When I'm happy, help me put it online and tell me exactly what to click.
-```

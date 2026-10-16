@@ -28,4 +28,4 @@ How to use them:
 - [Sales Process Automation](references/14-sales-process-automation.md): 1 prompts
 - [CRM Data Analysis](references/15-crm-data-analysis.md): 1 prompts
 
-The full library has 300 prompts for sales representatives. Members of Complete AI Training reach all of them through the sales-representatives-coach skill.
+The full library has 300 prompts for sales representatives, for members on https://completeaitraining.com.

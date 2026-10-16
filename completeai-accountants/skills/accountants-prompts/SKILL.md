@@ -28,4 +28,4 @@ How to use them:
 - [Mergers and Acquisitions Support](references/14-mergers-and-acquisitions-support.md): 1 prompts
 - [Sustainability Reporting](references/15-sustainability-reporting.md): 1 prompts
 
-The full library has 290 prompts for accountants. Members of Complete AI Training reach all of them through the accountants-coach skill.
+The full library has 290 prompts for accountants, for members on https://completeaitraining.com.

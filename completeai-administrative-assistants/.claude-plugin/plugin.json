@@ -1,8 +1,8 @@
 {
   "name": "completeai-administrative-assistants",
   "displayName": "Complete AI for Administrative Assistants",
-  "version": "1.0.0",
-  "description": "Skills and prompts for administrative assistants: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training also get the daily AI news, ideas and the full prompt library.",
+  "version": "1.1.0",
+  "description": "Skills and prompts for administrative assistants: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training can also see their AI news, weekly trends, ideas and learning progress.",
   "author": {
     "name": "Complete AI Training",
     "email": "contact@completeaitraining.com",
@@ -25,7 +25,7 @@
   "mcpServers": {
     "complete-ai-training": {
       "type": "http",
-      "url": "https://completeaitraining.com/mcp"
+      "url": "https://completeaitraining.com/mcp/plugin"
     }
   }
 }

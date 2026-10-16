@@ -28,4 +28,4 @@ How to use them:
 - [Internal Communication Management](references/14-internal-communication-management.md): 1 prompts
 - [Social Media Management](references/15-social-media-management.md): 1 prompts
 
-The full library has 328 prompts for administrative assistants. Members of Complete AI Training reach all of them through the administrative-assistants-coach skill.
+The full library has 328 prompts for administrative assistants, for members on https://completeaitraining.com.

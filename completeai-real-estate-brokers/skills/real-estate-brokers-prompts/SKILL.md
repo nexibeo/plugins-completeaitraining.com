@@ -28,4 +28,4 @@ How to use them:
 - [Transaction Management](references/14-transaction-management.md): 1 prompts
 - [Continuing Education Resources](references/15-continuing-education-resources.md): 1 prompts
 
-The full library has 351 prompts for real estate brokers. Members of Complete AI Training reach all of them through the real-estate-brokers-coach skill.
+The full library has 351 prompts for real estate brokers, for members on https://completeaitraining.com.

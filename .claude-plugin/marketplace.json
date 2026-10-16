@@ -11,62 +11,62 @@
   {
    "name": "completeai-accountants",
    "source": "./completeai-accountants",
-   "description": "Skills and prompts for accountants: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training also get the daily AI news, ideas and the full prompt library.",
-   "version": "1.0.0"
+   "description": "Skills and prompts for accountants: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training can also see their AI news, weekly trends, ideas and learning progress.",
+   "version": "1.1.0"
   },
   {
    "name": "completeai-administrative-assistants",
    "source": "./completeai-administrative-assistants",
-   "description": "Skills and prompts for administrative assistants: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training also get the daily AI news, ideas and the full prompt library.",
-   "version": "1.0.0"
+   "description": "Skills and prompts for administrative assistants: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training can also see their AI news, weekly trends, ideas and learning progress.",
+   "version": "1.1.0"
   },
   {
    "name": "completeai-graphic-designers",
    "source": "./completeai-graphic-designers",
-   "description": "Skills and prompts for graphic designers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training also get the daily AI news, ideas and the full prompt library.",
-   "version": "1.0.0"
+   "description": "Skills and prompts for graphic designers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training can also see their AI news, weekly trends, ideas and learning progress.",
+   "version": "1.1.0"
   },
   {
    "name": "completeai-human-resources-managers",
    "source": "./completeai-human-resources-managers",
-   "description": "Skills and prompts for human resources managers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training also get the daily AI news, ideas and the full prompt library.",
-   "version": "1.0.0"
+   "description": "Skills and prompts for human resources managers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training can also see their AI news, weekly trends, ideas and learning progress.",
+   "version": "1.1.0"
   },
   {
    "name": "completeai-lawyers",
    "source": "./completeai-lawyers",
-   "description": "Skills and prompts for lawyers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training also get the daily AI news, ideas and the full prompt library.",
-   "version": "1.0.0"
+   "description": "Skills and prompts for lawyers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training can also see their AI news, weekly trends, ideas and learning progress.",
+   "version": "1.1.0"
   },
   {
    "name": "completeai-marketing-managers",
    "source": "./completeai-marketing-managers",
-   "description": "Skills and prompts for marketing managers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training also get the daily AI news, ideas and the full prompt library.",
-   "version": "1.0.0"
+   "description": "Skills and prompts for marketing managers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training can also see their AI news, weekly trends, ideas and learning progress.",
+   "version": "1.1.0"
   },
   {
    "name": "completeai-project-managers",
    "source": "./completeai-project-managers",
-   "description": "Skills and prompts for project managers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training also get the daily AI news, ideas and the full prompt library.",
-   "version": "1.0.0"
+   "description": "Skills and prompts for project managers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training can also see their AI news, weekly trends, ideas and learning progress.",
+   "version": "1.1.0"
   },
   {
    "name": "completeai-real-estate-brokers",
    "source": "./completeai-real-estate-brokers",
-   "description": "Skills and prompts for real estate brokers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training also get the daily AI news, ideas and the full prompt library.",
-   "version": "1.0.0"
+   "description": "Skills and prompts for real estate brokers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training can also see their AI news, weekly trends, ideas and learning progress.",
+   "version": "1.1.0"
   },
   {
    "name": "completeai-sales-representatives",
    "source": "./completeai-sales-representatives",
-   "description": "Skills and prompts for sales representatives: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training also get the daily AI news, ideas and the full prompt library.",
-   "version": "1.0.0"
+   "description": "Skills and prompts for sales representatives: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training can also see their AI news, weekly trends, ideas and learning progress.",
+   "version": "1.1.0"
   },
   {
    "name": "completeai-teachers",
    "source": "./completeai-teachers",
-   "description": "Skills and prompts for teachers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training also get the daily AI news, ideas and the full prompt library.",
-   "version": "1.0.0"
+   "description": "Skills and prompts for teachers: a start-here assistant, 15 ready-made prompts, an app to build and the apps your AI can connect to. Members of Complete AI Training can also see their AI news, weekly trends, ideas and learning progress.",
+   "version": "1.1.0"
   }
  ]
 }

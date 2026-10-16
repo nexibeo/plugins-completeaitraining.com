@@ -28,4 +28,4 @@ How to use them:
 - [Post-Project Analysis](references/14-post-project-analysis.md): 1 prompts
 - [Crisis Management Assistance](references/15-crisis-management-assistance.md): 1 prompts
 
-The full library has 300 prompts for project managers. Members of Complete AI Training reach all of them through the project-managers-coach skill.
+The full library has 300 prompts for project managers, for members on https://completeaitraining.com.

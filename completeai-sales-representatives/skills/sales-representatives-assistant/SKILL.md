@@ -32,12 +32,12 @@ Do not make legal, medical or financial decisions for the user. Do not sign off 
 - **evp-sales-insight-studio**: Analyzes funnel, pricing, CRM and performance data into forecasts, outreach drafts and enablement content, like a monthly pipeline forecast for your VP.
 - **sales-representatives-prompts**: 15 ready-made prompts for sales representatives, by topic.
 - **sales-representatives-app-builder**: build a Sales outreach sequence and follow-up workbench for your own work with AI, starting in the chat.
-- **sales-representatives-connections**: the 12 apps you can connect to (MCP servers) and how to add one, step by step.
-- **sales-representatives-coach**: the Complete AI Training connection for members (daily AI news for sales representatives, ideas and the full prompt library).
+- **sales-representatives-connections**: the 12 apps you can connect to (MCP servers), each with the page that explains it.
+- **sales-representatives-coach**: the Complete AI Training connection for members (AI news for sales representatives, weekly trends, ideas, learning progress).
 
 ## How to pick
 1. Match the request to the skill whose description fits best and follow that skill's steps.
 2. No skill fits? Look in sales-representatives-prompts for a prompt on the topic and run it with the user's details.
 3. The user wants a tool of their own? Use the app builder.
-4. The user wants you to work in another app (email, files, CRM)? Use the connections skill.
+4. The user wants you to work in another app (email, files, CRM)? Use the connections skill: it lists the apps and links their pages.
 5. Ask for the details you need first (one short list of questions), then deliver the finished work.
